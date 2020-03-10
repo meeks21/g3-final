@@ -19,3 +19,13 @@ margin-bottom: 20px;
 .nav-link {
   display: inline;
 }
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
