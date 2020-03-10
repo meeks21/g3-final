@@ -1,10 +1,10 @@
 # ITC134 - Final Project: How To Build a MERN Stack
 
 # Links
-1. [Website](https://meeks21.github.io/g3-final/) 
-2. [MERN Stack Tutorial](https://docs.google.com/document/d/1QtT8X3rBNjDHYr6ivp0iHRyjCI8ea0ye7teMGykCtrQ/edit)
-3. [Hello World Application on MERN Stack Tutorial](https://docs.google.com/document/d/1qBXyHuqV_AkIdrTR1zgEqIw0nVNHh-AaqhFcK7H4uhw/edit)
-4. [Web App Repo](https://github.com/Nightscrawl/itc134-final3)
+1. [Website] <a href ="https://meeks21.github.io/g3-final/" target="_blank"> https://meeks21.github.io/g3-final/ </a> 
+2. [MERN Stack Tutorial] <a href="https://docs.google.com/document/d/1QtT8X3rBNjDHYr6ivp0iHRyjCI8ea0ye7teMGykCtrQ/edit" target="_blank"> https://docs.google.com/document/d/1QtT8X3rBNjDHYr6ivp0iHRyjCI8ea0ye7teMGykCtrQ/edit </a>
+3. [Hello World Application on MERN Stack Tutorial] <a href="https://docs.google.com/document/d/1qBXyHuqV_AkIdrTR1zgEqIw0nVNHh-AaqhFcK7H4uhw/edit" target="_blank">https://docs.google.com/document/d/1qBXyHuqV_AkIdrTR1zgEqIw0nVNHh-AaqhFcK7H4uhw/edit </a>
+4. [Web App Repo] <a href="https://github.com/Nightscrawl/itc134-final3" target="_blank">https://github.com/Nightscrawl/itc134-final3 </a>
 
 # Team
 - Amory Gengler: gengleramory@gmail.com
