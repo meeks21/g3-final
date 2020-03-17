@@ -9,7 +9,7 @@
 
 # Team
 - Amory Gengler: gengleramory@gmail.com
-- Ariunjargal Enkhtuvshin: aria.c181@gmail.com
+- Aria Enkhtuvshin: aria.c181@gmail.com
 - Douglas G Mckenney: Douglas.Mckenney@seattlecentral.edu
 - Jinyoung Kang: nire9221@gmail.com
 - Kemar Meeks: Anthony.Meeks3@gmail.com
